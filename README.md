@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="mascot.gif" width="220" alt="mascot" />
+<img src="snoopy.gif" width="220" alt="snoopy" />
 
 # Welcome to my github!
 
@@ -17,6 +17,9 @@ A Roblox restaurant game I'm building with 3 friends: table claiming, NPC waiter
 
 🛡️ **[HIIPS360](https://github.com/anthonyherradura/comp_4800_g09_worksafebc_HIIPS360)**
 An AI hazard-suggestion web app for WorkSafeBC, built with a team for my practicum.
+
+🧾 **Pantry Pilot**
+A receipt-reading app in progress: a fine-tuned Donut model trained on synthetic receipts from my own generator.
 
 ### ✦ Tech Stack ✦
 
