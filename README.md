@@ -8,7 +8,7 @@
 
 I'm Nathan, a computer systems student at BCIT who likes building fun and useful projects.
 
-Into **Unreal Engine** and **Roblox development**, and I like making the tools and systems a game team uses.
+Into **Unreal Engine** and **Roblox development**, and I like building building games that I would play myself.
 
 ### ✦ Working on Right Now ✦
 
@@ -36,7 +36,6 @@ A receipt-reading app in progress: a fine-tuned Donut model trained on synthetic
 
 **Engines & Tools**
 
-![Unreal Engine](https://img.shields.io/badge/UNREAL_ENGINE-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/ROBLOX_STUDIO-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,6 +43,10 @@ A receipt-reading app in progress: a fine-tuned Donut model trained on synthetic
 ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently Learning**
+
+![Unreal Engine](https://img.shields.io/badge/UNREAL_ENGINE-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### ✦ Hobbies ✦
 
